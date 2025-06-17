@@ -4,4 +4,4 @@
 |OLED screen    |The screen that shows the data that the sensors provide                                                                       |Already have   |     N/A       |    N/A         |       N/A             |
 |[DHT20](https://www.amazon.com/Temperature-Humidity-Sensor-Digital-Replaces/dp/B0F21T53BZ) |The sensor that handles Temprature and humidity   |Amazom         |     $5.88     |    N/A         |       N/A             |
 |Premade/3D printed project box| Holds all the components to keep them in place and safe                                                       |Already have   |     N/A       |    N/A         |       N/A             |
-|VOC sensor     |Detects VOC's                                                                                                                 |Going to buy on my own|   N/A  |    N/A         |       N/A             |
+|VOC sensor     |Detects VOC's                                                                                                                 |Going to buy on my own|   N/A  |    N/A         |       $5.88           |
