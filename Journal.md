@@ -14,4 +14,4 @@ Today i started the project so i started researching some potential sensors i co
 
 So i can either 3D print it or i could use a spare project box, The plan for it currently is to use a small breadboard and a esp32 and fit it into a container with a small area sticking out for the sensors and a hole cutout to fit in a screen either LCD or OLED so the information from the sensors can be viewed easily, Overall today was a lot of work mostly put into research and developing the idea tommarow comes the fun part of figuring out the technical details!
 
-**Total time spent: 8h**
+**Total time spent: 8h (Wow i actually did like a full workday of research LOL)**
