@@ -1,1 +1,3 @@
-
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
+|Esp32          |The processing power behind the device that handles the screen and sensors as well as power delivery to them                  | N/A           |     N/A       |    N/A         |       N/A             |
