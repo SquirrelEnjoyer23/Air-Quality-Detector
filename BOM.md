@@ -1,4 +1,7 @@
 |     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
-|Esp32          |The processing power behind the device that handles the screen and sensors as well as power delivery to them                  | N/A           |     N/A       |    N/A         |       N/A             |
-|OLED screen    |The screen that shows the data that the sensors provide                                                                       | N/A           |     N/A       |    N/A         |       N/A             |
+|Esp32          |The processing power behind the device that handles the screen and sensors as well as power delivery to them                  |Already have   |     N/A       |    N/A         |       N/A             |
+|OLED screen    |The screen that shows the data that the sensors provide                                                                       |Already have   |     N/A       |    N/A         |       N/A             |
+|[DHT20](https://www.adafruit.com/product/5183) |The sensor that handles Temprature and humidity                                               |Adafruit       |     $4.50     |    $5.16       |       N/A             |
+|Premade/3D printed project box| Holds all the components to keep them in place and safe                                                       |Already have   |     N/A       |    N/A         |       N/A             |
+|VOC sensor     |Detects VOC's                                                                                                                 |Going to buy on my own|   N/A  |    N/A         |       N/A             |
