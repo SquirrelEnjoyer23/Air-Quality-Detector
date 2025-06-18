@@ -21,6 +21,8 @@ So i can either 3D print it or i could use a spare project box, The plan for it 
 
 Since i now have a solid idea on how i want to execute my plan i just need to figure out the exact parts i want to use but i need to make sure they can ship within a reasonable amount of time as well as they must be cheap enough, luckily for me i already have a few of the pieces i can use, so im going to need sensors to do the heavy lifting here, im going to also need a container to store it all in, a screen, a esp32, and a way to connect it all together, so since i already have a esp32, a project box or i could 3D print that one i designed, and a small oled screen, and a breadboard, so that just leaves me with having to get the sensors i want it to be able to detect VOC's, Temprature, and humidity so it wouldnt be a crazy amount of detail provided to the user, For the sensors i have decided on the DHT20 as it can handle temprature and humidity within a small form factor, And i was able to find a VOC sensor that will work however it was more expensive since i decided the ones on aliexpress didnt have great reviews as most of them said the data either didnt output or was innacurate so ive decided to get one of those but i found one off amazon that i will just pay for myself as i still have left overs on a giftcard so it should turn out fine (Plus i can buy extras for my own future projects) in the end and if i wanted to add more sensors later i could since my esp32 has plenty of pins.
 
+![image](https://github.com/user-attachments/assets/faea2de0-c9f1-46a6-a8b5-b423a4d959c4)
+
 **Total time spent: 7h**
 
 # 6/18/2025
