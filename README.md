@@ -12,15 +12,15 @@ This device can be helpful for monitoring indoor temprature and humidity, or eve
 
 * Small 3D printed box or project box
 
-* Esp32
+* Esp32 - The computer of the build
 
-* OLED Screen
+* OLED Screen - Displays all the data
 
-* DHT20
+* DHT20 - Detects the temprature and humidity
 
-* VOC sensor
+* VOC sensor - Detects VOC's in the air
 
-* Breadboard
+* Breadboard - Connects all the components together
 
 |     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
