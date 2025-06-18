@@ -14,3 +14,5 @@ OLED Screen
 DHT20
 
 VOC sensor
+
+Breadboard
