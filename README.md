@@ -8,3 +8,9 @@ Materials Used:
 Small 3D printed box or project box
 
 Esp32
+
+OLED Screen
+
+DHT20
+
+VOC sensor
