@@ -3,6 +3,8 @@ A simple air quality detector that utilizes sensors, with a esp32 at the heart!
 
 This device can be helpful for monitoring indoor temprature and humidity, or even finding its way in a 3D printing room or with your spools to make sure they stay in good condition!
 
+This project was made to be fairly cheap and to make use of the components that i had if you want to make this yourself you may have to end up tweaking a few things.
+
 ![image](https://github.com/user-attachments/assets/7ca408fc-73b6-48b4-8d8e-a9eed1050690)
 
 ![image](https://github.com/user-attachments/assets/c2841aa8-c9da-47ab-a693-46158e231bd0)
