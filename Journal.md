@@ -5,6 +5,7 @@ description: "A simple air quality detector that utilizes sensors, with a esp32 
 created_at: "2025-6-16"
 ---
 
+# Total Time: ~17 Hours before assembly
 
 # 6/16/2026
 
@@ -21,3 +22,15 @@ So i can either 3D print it or i could use a spare project box, The plan for it 
 Since i now have a solid idea on how i want to execute my plan i just need to figure out the exact parts i want to use but i need to make sure they can ship within a reasonable amount of time as well as they must be cheap enough, luckily for me i already have a few of the pieces i can use, so im going to need sensors to do the heavy lifting here, im going to also need a container to store it all in, a screen, a esp32, and a way to connect it all together, so since i already have a esp32, a project box or i could 3D print that one i designed, and a small oled screen, and a breadboard, so that just leaves me with having to get the sensors i want it to be able to detect VOC's, Temprature, and humidity so it wouldnt be a crazy amount of detail provided to the user, For the sensors i have decided on the DHT20 as it can handle temprature and humidity within a small form factor, And i was able to find a VOC sensor that will work however it was more expensive since i decided the ones on aliexpress didnt have great reviews as most of them said the data either didnt output or was innacurate so ive decided to get one of those but i found one off amazon that i will just pay for myself as i still have left overs on a giftcard so it should turn out fine (Plus i can buy extras for my own future projects) in the end and if i wanted to add more sensors later i could since my esp32 has plenty of pins.
 
 **Total time spent: 7h**
+
+# 6/18/2025
+
+Since yesturday i already figured out the parts today i just needed to figure out the final few pieces so i started by going into onshape and fixing the model up incase i decided to use it so i also made a top that can go on it, Overall this project maybe pretty simple but is actually really cool at least for me as i havent done anything like it before.
+
+**Total time spent: 2h**
+
+![image](https://github.com/user-attachments/assets/e18e3760-6526-44d9-a920-bb96d939364b)
+
+![image](https://github.com/user-attachments/assets/de9fa055-5770-40eb-876c-231b20ef1a1e)
+
+I also did some further research so now im certain that these parts will work with my current plan and that i have access to purchase these parts or have access to them already
