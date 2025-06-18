@@ -29,10 +29,11 @@ Since i now have a solid idea on how i want to execute my plan i just need to fi
 
 Since yesturday i already figured out the parts today i just needed to figure out the final few pieces so i started by going into onshape and fixing the model up incase i decided to use it so i also made a top that can go on it, Overall this project maybe pretty simple but is actually really cool at least for me as i havent done anything like it before.
 
-**Total time spent: 2h**
 
 ![image](https://github.com/user-attachments/assets/e18e3760-6526-44d9-a920-bb96d939364b)
 
 ![image](https://github.com/user-attachments/assets/de9fa055-5770-40eb-876c-231b20ef1a1e)
 
 I also did some further research so now im certain that these parts will work with my current plan and that i have access to purchase these parts or have access to them already
+
+**Total time spent: 2h**
