@@ -37,3 +37,11 @@ Since yesturday i already figured out the parts today i just needed to figure ou
 I also did some further research so now im certain that these parts will work with my current plan and that i have access to purchase these parts or have access to them already
 
 **Total time spent: 2h**
+
+# 6/30/2025 (Didnt document same day)
+
+On this day i put some holes in the box and put the screen in and connected up the cables!
+
+![20250701_143421](https://github.com/user-attachments/assets/288d9c9e-0e50-46c0-acd7-b9c736e39598)
+
+**Total time spent: 1 hour**
